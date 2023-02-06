@@ -1,0 +1,2 @@
+firstname = "Eric"
+secondname = "Lenina"
